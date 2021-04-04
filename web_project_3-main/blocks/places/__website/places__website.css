@@ -1,0 +1,11 @@
+.places__website {
+    font-size: 12px;
+    line-height: 20px;
+    align-self: end;
+}
+
+@media screen and (max-width: 425px) {
+    .places__website {
+        margin-left: 16px;
+    }
+}
